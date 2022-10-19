@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.58" height="24.36" viewBox="0 0 26.58 24.36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1816" data-name="Rectangle 1816" width="26.4" height="24" transform="translate(0.21)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="MFS_24px-icon-Clock-in-Tech" transform="translate(-0.03 0.18)">
+    <circle id="Ellipse_180" data-name="Ellipse 180" cx="11.28" cy="11.28" r="11.28" transform="translate(0.93 0.72)" fill="none" stroke="#505150" stroke-width="1.8"/>
+    <path id="Path_8746" data-name="Path 8746" d="M17.42,6.44h-2a.21.21,0,0,0-.15.37l.39.39-3.52,3.61L10.46,9.17l.38-.39a.22.22,0,0,0-.16-.37H8.73a.21.21,0,0,0-.21.22v1.95a.21.21,0,0,0,.37.14l.39-.4,2.31,2.23a.81.81,0,0,0,.58.23.84.84,0,0,0,.59-.24l4.09-4.2.4.38a.22.22,0,0,0,.37-.16V6.62a.22.22,0,0,0-.22-.22" fill="#505150"/>
+    <path id="Path_8747" data-name="Path 8747" d="M12.21,4.35a1,1,0,1,0-1-1,1,1,0,0,0,1,1" fill="#505150"/>
+    <path id="Path_8748" data-name="Path 8748" d="M12.21,19.65a1,1,0,1,0,1,1,1,1,0,0,0-1-1" fill="#505150"/>
+    <path id="Path_8749" data-name="Path 8749" d="M3.6,11a1,1,0,1,0,1,1,1,1,0,0,0-1-1" fill="#505150"/>
+    <path id="Path_8750" data-name="Path 8750" d="M15.41,19.96l11.2.04V10.43l-11.2-.03Z" fill="#fff"/>
+    <g id="Group_13003" data-name="Group 13003" clip-path="url(#clip-path)">
+      <line id="Line_251" data-name="Line 251" x2="8.8" transform="translate(15.73 13.2)" fill="none" stroke="#505150" stroke-width="1.6"/>
+    </g>
+    <path id="Path_8751" data-name="Path 8751" d="M23.73,15.19l2.56-1.99-2.56-2Z" fill="#505150"/>
+    <g id="Group_13004" data-name="Group 13004" clip-path="url(#clip-path)">
+      <line id="Line_252" data-name="Line 252" x1="8.8" transform="translate(17.49 17.2)" fill="none" stroke="#505150" stroke-width="1.6"/>
+    </g>
+    <path id="Path_8752" data-name="Path 8752" d="M18.29,19.19V15.2l-2.56,2Z" fill="#505150"/>
+  </g>
+</svg>

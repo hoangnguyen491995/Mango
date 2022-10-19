@@ -1,0 +1,16 @@
+<svg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+	<g stroke="#58595b" stroke-miterlimit="10" stroke-width="2">
+		<path d="M1.57 1.27h11.85v15.05H1.57z" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+		<path d="M11.27 4.85H3.58" fill="#ffcc06" />
+		<path d="M10.24 7.57H3.58" fill="#ffcc06" />
+		<path d="M10.13 10.3H3.58" fill="#ffcc06" />
+		<circle cx="20.02" cy="11" fill="#fff" r="8.48" />
+		<path d="M12.15 16.5l2.14 2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+		<path d="M11.7 17.84l1.24 1.28" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+		<path d="M11.523 18.845l.404.416-8.313 8.075-.404-.416z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99992" />
+	</g>
+	<circle cx="2.74" cy="27.73" fill="#58595b" r="1.9" />
+	<path d="M3.21 26.1l1.23 1.28" fill="none" stroke="#58595b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+	<path d="M23.17 15.8c2.59-1.9 3.16-5.54 1.26-8.13" fill="none" stroke="#58595b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+	<path d="M10.08 13.09h-6.5" fill="#ffcc06" stroke="#58595b" stroke-miterlimit="10" stroke-width="2" />
+</svg>

@@ -1,0 +1,93 @@
+export interface ILoadReceipt {
+  lstReceipt: Invoice[];
+  storeConfig: StoreConfig;
+  responseCCs: null;
+  logo: null;
+  cashDiscount: number;
+  allFeePayment: number;
+  activeSurchar: string;
+  invoice: Invoice;
+  listPayment: Invoice[];
+  subTotal: number;
+  total: number;
+  isRewardActive: string;
+}
+
+export interface Invoice {
+  feeName: string;
+  trnSeq: number;
+  checkNo: number;
+  orgCheckNo: number;
+  orgAppointment: number;
+  trnCode: number;
+  status: number;
+  description: string;
+  memberType: string;
+  pointEarned: string;
+  employeeName: string;
+  employeeID: number;
+  itemPrice: number;
+  baseSub: number;
+  sliptAmount: null;
+  baseTTL: number;
+  trnQty: number;
+  discount: number;
+  tip: number;
+  otherTip: number;
+  creditTip: number;
+  subTotal: number;
+  taxTotal: number;
+  totalBase: number;
+  customerID: string;
+  customerName: string;
+  serviceDate: string;
+  inService: string;
+  outService: string;
+  clientCode: null;
+  oPayment: number;
+  closeTime: Date;
+  mainCustomerName: string;
+  closeByName: string;
+  point: number;
+  paid: boolean;
+  refundRef: string;
+  sOrder: string;
+  itemCode: string;
+  type: number | null;
+  categoryCode: number;
+  baseSTax: number;
+  sTaxTotal: number;
+  changeCash: null;
+}
+
+export interface StoreConfig {
+  id: number;
+  storeName: string;
+  storeLogo: string;
+  billHeader: string;
+  billFooter: string;
+  taxCode: string;
+  receiptCodeFormat: string;
+  daily: boolean;
+  weekly: boolean;
+  monthly: boolean;
+  yearly: boolean;
+  createdBy: string;
+  createdDate: Date;
+  updatedBy: string;
+  updatedDate: Date;
+  telephone: string;
+  address: string;
+  fax: null;
+  website: string;
+  email: null;
+  resetTurn: null;
+  franchiseCode: null;
+  pushingStatus: boolean;
+  isModifying: boolean;
+  isNew: boolean;
+  isDeleted: boolean;
+  lastChange: Date;
+  masterStore: number;
+  rvcNo: number;
+}

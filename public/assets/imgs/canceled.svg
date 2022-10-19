@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.775" height="38" viewBox="0 0 34.775 38">
+  <defs>
+    <filter id="Rectangle_1538" x="0" y="9.055" width="34.775" height="28.945" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.8"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_183" x="3.86" y="0" width="27.056" height="27.056" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.8"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="canceled" transform="translate(-677.159 -541)">
+    <g id="Group_12281" data-name="Group 12281" transform="translate(686.159 550)" opacity="0.7" style="mix-blend-mode: multiply;isolation: isolate">
+      <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Rectangle_1538)">
+        <path id="Rectangle_1538-2" data-name="Rectangle 1538" d="M8.388,0h0a8.388,8.388,0,0,1,8.388,8.388v2.557a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8.388A8.388,8.388,0,0,1,8.388,0Z" transform="translate(9 18.05)" fill="#505050"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Ellipse_183)">
+        <ellipse id="Ellipse_183-2" data-name="Ellipse 183" cx="4.528" cy="4.528" rx="4.528" ry="4.528" transform="translate(12.86 9)" fill="#505050"/>
+      </g>
+    </g>
+    <path id="Rectangle_1537" data-name="Rectangle 1537" d="M8.388,0h0a8.388,8.388,0,0,1,8.388,8.388v2.558a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8.388A8.388,8.388,0,0,1,8.388,0Z" transform="translate(686.159 559.055)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_8960" data-name="Path 8960" d="M13.945,13.945a.6.6,0,0,0,0-.845L11.7,10.853l2.247-2.247a.6.6,0,0,0-.844-.845l-2.248,2.248L8.606,7.761a.6.6,0,0,0-.845.845l2.248,2.247L7.761,13.1a.6.6,0,0,0,.845.845L10.853,11.7,13.1,13.945a.6.6,0,0,0,.844,0" transform="translate(683.694 554.152)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <circle id="Ellipse_182" data-name="Ellipse 182" cx="4.528" cy="4.528" r="4.528" transform="translate(690.019 550)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.393" height="33.393" viewBox="0 0 33.393 33.393">
+  <defs>
+    <filter id="Rectangle_1049" x="0" y="0" width="33.393" height="33.393" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="star" x="0.565" y="0.287" width="32.262" height="32.241" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_11227" data-name="Group 11227" transform="translate(-1054.001 -846)">
+    <g transform="matrix(1, 0, 0, 1, 1054, 846)" filter="url(#Rectangle_1049)">
+      <path id="Rectangle_1049-2" data-name="Rectangle 1049" d="M0,0H16.393a5,5,0,0,1,5,5V16.393a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(6 3)" fill="#e00144"/>
+    </g>
+    <path id="Path_8457" data-name="Path 8457" d="M-116.583,3320.746l-6.424-5.917h6.424Z" transform="translate(1183 -2444.437)" fill="#6f0022"/>
+    <g transform="matrix(1, 0, 0, 1, 1054, 846)" filter="url(#star)">
+      <path id="star-2" data-name="star" d="M13.883,5.109,9.5,4.439,7.534.253a.464.464,0,0,0-.806,0L4.763,4.439l-4.384.67a.445.445,0,0,0-.251.752L3.312,9.125l-.753,4.616a.446.446,0,0,0,.655.462l3.916-2.164L11.047,14.2a.446.446,0,0,0,.655-.462L10.95,9.126l3.185-3.265a.446.446,0,0,0-.251-.752Z" transform="translate(9.57 6.27)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

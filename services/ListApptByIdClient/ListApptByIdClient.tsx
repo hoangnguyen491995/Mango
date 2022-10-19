@@ -1,0 +1,17 @@
+import HttpClient from "@utils/axios/instance";
+import { catchAxiosError } from "@utils/axios/error";
+import { IResponse } from "@utils/axios/entities";
+
+const URL_START = "/api/Appointments/getAppoitemntByClient?id=";
+const URL_END = "&rvcNo=";
+export class APIListApptByIdClient extends HttpClient {
+  constructor() {
+    super(process.env.NEXT_PUBLIC_DOMAIN_API_MANGO as string);
+  }
+  public ListApptByIdClient = async (body): Promise<IResponse> => {
+    const data: IResponse = await this.instance
+      .get(URL_START + body.idClient + URL_END + body.rvcNo)
+      .catch(catchAxiosError);
+    return data;
+  };
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.462" viewBox="0 0 20.5 20.462">
+  <g id="icon_waiting" data-name="icon waiting" transform="translate(-918.479 -135.843)">
+    <path id="Path_8176" data-name="Path 8176" d="M532.458,415.909l.9,1.206a9.732,9.732,0,0,0,1.219-1.077L533.488,415A8.155,8.155,0,0,1,532.458,415.909Z" transform="translate(401.454 -262.956)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+    <path id="Path_8177" data-name="Path 8177" d="M530.019,417.148l.444,1.436a9.71,9.71,0,0,0,1.509-.611l-.681-1.34A8.142,8.142,0,0,1,530.019,417.148Z" transform="translate(401.23 -262.956)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+    <path id="Path_8178" data-name="Path 8178" d="M534.35,413.93l1.245.841a9.6,9.6,0,0,0,.794-1.422l-1.37-.618A8.178,8.178,0,0,1,534.35,413.93Z" transform="translate(401.454 -263.136)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+    <g id="icon_waiting-2" data-name="icon waiting">
+      <path id="Path_8179" data-name="Path 8179" d="M526.907,409.7H522.7v1.5h5.71v-7.513h-1.5Z" transform="translate(400.977 -263.441)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+      <path id="icon_waitiing" data-name="icon waitiing" d="M536.444,401.57v2.888a9.978,9.978,0,1,0-7.161,15.2l-.2-1.546a8.592,8.592,0,0,1-1.1.071,8.421,8.421,0,1,1,7.25-12.709h-2.689v1.56H538V401.57Z" transform="translate(400.725 -263.684)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+    </g>
+    <path id="Path_8181" data-name="Path 8181" d="M535.706,410.07c-.006.08-.014.16-.023.24h0a8.06,8.06,0,0,1-.207,1.126l1.455.377a9.666,9.666,0,0,0,.272-1.6h0l.012-.138Z" transform="translate(401.454 -263.256)" fill="#505050" stroke="#505050" stroke-width="0.5"/>
+  </g>
+</svg>

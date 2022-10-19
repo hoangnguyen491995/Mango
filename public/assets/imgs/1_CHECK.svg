@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <filter id="Ellipse_88" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="CHECK" transform="translate(14.912 14.912)">
+    <g transform="matrix(1, 0, 0, 1, -14.91, -14.91)" filter="url(#Ellipse_88)">
+      <circle id="Ellipse_88-2" data-name="Ellipse 88" cx="35" cy="35" r="35" transform="translate(15 15)" fill="#fff"/>
+    </g>
+    <g id="check_2_" data-name="check (2)">
+      <path id="Path_7557" data-name="Path 7557" d="M35,0A35,35,0,1,0,67.112,48.922,34.435,34.435,0,0,0,70,35,35.04,35.04,0,0,0,35,0Zm0,63.636A28.636,28.636,0,1,1,63.636,35,28.669,28.669,0,0,1,35,63.636Z" fill="#00bed6"/>
+      <path id="Path_7558" data-name="Path 7558" d="M109.2,103.2l-18,18-8.249-8.25a3.182,3.182,0,1,0-4.5,4.5l10.5,10.5a3.182,3.182,0,0,0,2.25.932h0a3.182,3.182,0,0,0,2.25-.932L113.7,107.7a3.182,3.182,0,0,0-4.5-4.5Z" transform="translate(-61.078 -80.577)" fill="#00bed6"/>
+    </g>
+  </g>
+</svg>

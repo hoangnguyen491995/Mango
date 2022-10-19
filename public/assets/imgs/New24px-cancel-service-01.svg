@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+	<g id="icon_delete1" data-name="icon delete1" transform="translate(-154.456 -145.439)">
+		<g id="Group_8192" data-name="Group 8192" transform="translate(154.456 145.439)">
+			<rect id="Rectangle_434" data-name="Rectangle 434" width="16.622" height="16.622" rx="5.895" transform="translate(0.689 0.689)" fill="#fff" />
+			<path id="Path_7447" data-name="Path 7447" d="M168.517,163.439H158.395a3.943,3.943,0,0,1-3.939-3.939V149.378a3.943,3.943,0,0,1,3.939-3.939h10.122a3.943,3.943,0,0,1,3.939,3.939V159.5A3.943,3.943,0,0,1,168.517,163.439Zm-10.122-16.622a2.564,2.564,0,0,0-2.56,2.561V159.5a2.564,2.564,0,0,0,2.56,2.561h10.122a2.564,2.564,0,0,0,2.561-2.561V149.378a2.564,2.564,0,0,0-2.561-2.561Z" transform="translate(-154.456 -145.439)" fill="#f28500" />
+		</g>
+		<g id="Line_104" data-name="Line 104" transform="translate(159.501 150.485)">
+			<path id="Path_7448" data-name="Path 7448" d="M170.829,162.5a.686.686,0,0,1-.487-.2l-6.531-6.53a.689.689,0,0,1,.975-.975l6.53,6.531a.689.689,0,0,1-.487,1.176Z" transform="translate(-163.609 -154.593)" fill="#f28500" />
+		</g>
+		<g id="Line_105" data-name="Line 105" transform="translate(159.501 150.484)">
+			<path id="Path_7449" data-name="Path 7449" d="M164.3,162.5a.689.689,0,0,1-.487-1.176l6.532-6.533a.689.689,0,1,1,.974.975l-6.532,6.532A.687.687,0,0,1,164.3,162.5Z" transform="translate(-163.608 -154.591)" fill="#f28500" />
+		</g>
+	</g>
+</svg>

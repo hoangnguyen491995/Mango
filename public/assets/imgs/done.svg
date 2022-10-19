@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.5" height="33.5" viewBox="0 0 33.5 33.5">
+	<g id="Done_Action" data-name="Done Action" transform="translate(0.75 0.75)">
+		<path id="_31x31px" data-name="31x31px" d="M16,0A16,16,0,1,1,0,16,16,16,0,0,1,16,0Z" fill="#fff" stroke="#505050" stroke-width="1.5" />
+		<path id="Done" d="M23.5,45.492,27.173,49.5a1.5,1.5,0,0,0,1.122.476h.2a1.6,1.6,0,0,0,1.156-.816l6.764-13.187a1.563,1.563,0,0,0-.646-2.107,1.529,1.529,0,0,0-2.073.68L27.921,45.764l-2.175-2.379a1.529,1.529,0,0,0-2.175-.1A1.6,1.6,0,0,0,23.5,45.492Z" transform="translate(-13.731 -25.466)" fill="#505050" stroke="#505050" stroke-width="1" />
+	</g>
+</svg>
